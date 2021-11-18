@@ -8,7 +8,7 @@
 
 function App() {
     // 메뉴의 이름을 입력받는건
-    sss
+    짜증나
 }
 
 //TODO 메뉴 수정
